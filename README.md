@@ -118,3 +118,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Ruby
+- Ruby on Rails
+- OOP
+- HTML
+- CSS
+- Javascript
+- Tcl/Tk
+- 
+
+- Python
+- R
+- RShiny
+- SQL
+- NoSQL Dbs,
+- MS Excel (VBA, macros)
+• AWS,
+IBM Cloud (Watson),
+Power BI,
+Apache Airflow,
+Apache Spark,
+Lambda,
+API Gateway,
+Git,
+Jupyter,
+GNU/Linux, 
+Java
