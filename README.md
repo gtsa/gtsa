@@ -67,9 +67,6 @@
   <a href="https://www.serverless.com/framework/docs/providers/aws/guide/functions" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/aws-lambda-1.svg" alt="lambda - serverless" width="40" height="40"/>
   </a>
-  <a href="https://aws.amazon.com/api-gateway/" target="_blank">
-    <img src="https://www.clipartmax.com/png/middle/195-1955710_api-gateway-icon-assertible-logo-aws-api-gateway-logo.png" alt="API Gateway" width="40" height="40"/>
-  </a>
 </p>
   
   
@@ -115,30 +112,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-stimulus
-hotwire
-- OOP
-- HTML
-- CSS
-- Javascript
-- Tcl/Tk
-- 
-
-- Python
-- R
-- RShiny
-- SQL
-- NoSQL Dbs,
-- MS Excel (VBA, macros)
-• AWS,
-IBM Cloud (Watson),
-Power BI,
-Apache Airflow,
-Apache Spark,
-Lambda,
-API Gateway,
-Git,
-Jupyter,
-GNU/Linux, 
-Java
