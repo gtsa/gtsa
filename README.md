@@ -49,6 +49,9 @@
 ![](https://raw.githubusercontent.com/gtsa/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/gtsa/github-stats-transparent/output/generated/languages.svg)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtsa)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **gtsa/gtsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
