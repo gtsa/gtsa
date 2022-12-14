@@ -22,7 +22,7 @@
     <a href="https://www.ruby-lang.org/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/>
     </a>
-     <a href="https://www.ruby-lang.org/" target="_blank">
+     <a href="https://rubyonrails.org" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
     </a>
     <a href="https://www.w3.org/html/" target="_blank">
@@ -43,7 +43,21 @@
     <a href="https://www.python.org" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
+     <a href="https://www.tcl.tk/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Tcl-Tk_universal_scripting.svg" alt="Tcl-Tk" width="40" height="40"/>
+    </a>
+    <a href="https://www.r-project.org/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png?20160212050515" alt="R" width="40" height="40"/>
+    </a>
+    <a href="https://www.heroku.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="40" height="40"/>
+    </a>
+  <a href="https://jupyter.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Tcl-Tk" width="40" height="40"/>
+    </a>
 </p>
+
+
 
 
 
