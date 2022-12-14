@@ -52,9 +52,6 @@
   <a href="https://www.heroku.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="40" height="40"/>
   </a>
-  <a href="https://jupyter.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
-  </a>
   <a href="https://aws.amazon.com/s3/" target="_blank">
     <img src="https://user-images.githubusercontent.com/2277182/75613896-f24f5800-5b32-11ea-966e-4ed4b41f873a.png" alt="s3" width="40" height="40"/>
   </a>
