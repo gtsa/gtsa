@@ -53,9 +53,41 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="40" height="40"/>
     </a>
   <a href="https://jupyter.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Tcl-Tk" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
     </a>
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://community.rstudio.com/uploads/default/original/1X/c017cef9c13bc937df73659d3b5b1411a39c7ed2.png" alt="shiny" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/s3/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/2277182/75613896-f24f5800-5b32-11ea-966e-4ed4b41f873a.png" alt="s3" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/ec2/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg/1024px-AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg.png" alt="Amazon Elastic Compute Cloud" width="40" height="40"/>
+  </a>
+  <a href="https://www.serverless.com/framework/docs/providers/aws/guide/functions" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/aws-lambda-1.svg" alt="lambda - serverless" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/api-gateway/" target="_blank">
+    <img src="https://www.clipartmax.com/png/middle/195-1955710_api-gateway-icon-assertible-logo-aws-api-gateway-logo.png" alt="API Gateway" width="40" height="40"/>
+  </a>
 </p>
+  
+  
+<!--   SciPy
+  https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/1200px-SCIPY_2.svg.png
+  Scikitlearn
+  https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg
+  NumPy
+  https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png
+  PanDas
+  https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png
+  Matplotlib
+  https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png
+  Seaborn
+  https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png
+  
+  ggplot2
+  https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/ggplot2.png -->
 
 
 
@@ -66,7 +98,6 @@
 ![](https://raw.githubusercontent.com/gtsa/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/gtsa/github-stats-transparent/output/generated/languages.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtsa)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
