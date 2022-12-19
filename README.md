@@ -41,7 +41,7 @@
     <img src="https://community.rstudio.com/uploads/default/original/1X/c017cef9c13bc937df73659d3b5b1411a39c7ed2.png" alt="shiny" width="40" height="40"/>
   </a>
   <a href="https://www.tcl.tk/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Tcl-Tk_universal_scripting.svg" alt="Tcl-Tk" width="40" height="40"/>
+    <img src="https://wiki.tcl-lang.org/image/Tcl%2FTk+Core+Logo+128+Alternate" alt="Tcl-Tk" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
