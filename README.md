@@ -49,6 +49,9 @@
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" title="GNU/Linux"/>
   </a>
+  <a href="https://www.nginx.com/" target="_blank">
+    <img src="img/nginx.svg" alt="heroku" width="40" height="40" title="Nginx"/>
+  </a>
   <a href="https://www.heroku.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="40" height="40" title="Heroku"/>
   </a>
