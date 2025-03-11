@@ -89,7 +89,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=gtsa&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ![](https://raw.githubusercontent.com/gtsa/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/gtsa/github-stats-transparent/output/generated/languages.svg)
+<!-- ![](https://raw.githubusercontent.com/gtsa/github-stats-transparent/output/generated/languages.svg) -->
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
